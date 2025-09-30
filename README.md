@@ -17,6 +17,13 @@ Um site simples e elegante para exibir a receita de **Cupcake de Café com Chant
 
 ---
 
+## 📄 Licença
+
+Este projeto foi desenvolvido apenas para fins de estudo durante o curso da Rocketseat.
+Não possui licença, portanto qualquer pessoa pode utilizar, modificar e compartilhar livremente.
+
+---
+
 ## 📂 Estrutura do Projeto
 ```bash
 .
@@ -24,3 +31,4 @@ Um site simples e elegante para exibir a receita de **Cupcake de Café com Chant
 ├── style.css
 └── assets/
     └── images/
+
